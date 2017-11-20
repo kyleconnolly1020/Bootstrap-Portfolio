@@ -1,0 +1,69 @@
+body {
+  
+  background-image: url(../images/concrete_seamless.png);
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: initial;
+} 
+
+
+#infoblock {
+  background: #fff;
+  border: 1px solid #ddd;
+  padding: 30px;
+}
+
+.thumbnail {
+  width: 62px;
+  height: 62px;
+  margin-top: 8px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding:10px;
+  background-color: green;
+  color: white;
+  text-align: center;
+}
+
+#paragraphone {
+  font-size: 20px;
+}
+
+#paragraphtwo {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+h1 {
+  color: green;
+}
+
+.img-thumbnail {
+  position: relative;
+  margin-top: 5px;
+  margin-bottom: 5px; 
+}
+
+.gametitle {
+  position: absolute;
+  bottom: 20px;
+  width: 89.2%;
+  padding: 15px;
+  margin-bottom: 0;
+  margin-left: 5px;
+  font-weight: 300;
+  line-height: 30px;
+  color: #fff;
+  text-align: center;
+  background: #4aaaa5;
+  border-bottom: 0;
+}
